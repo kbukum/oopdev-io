@@ -12,7 +12,7 @@
   </modules>
 
   <name>io-parent</name>
-  <url>http://oopdev.org/</url>
+  <url>https://github.com/kbukum/oopdev-io</url>
   <inceptionYear>2016</inceptionYear>
 
   <distributionManagement>
@@ -21,6 +21,19 @@
       <url>scp://oopdev.org/www/website</url>
     </site>
   </distributionManagement>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://github.com/kbukum/oopdev-io/blob/master/LICENSE</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <scm>
+    <url>https://github.com/kbukum/oopdev-io</url>
+  </scm>
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
